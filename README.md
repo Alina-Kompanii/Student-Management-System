@@ -71,7 +71,7 @@ The application uses a static class to manage student data across all forms.
 [![Full-time Students](screenshots/fulltime-students.png)](https://github.com/Alina-Kompanii/Student-Management-System/blob/main/fulltime-students.png)
 
  Moving a Student (Full-time → Part-time)
-![Transfer demo](screenshots/transfer-demo.gif)
+[![Transfer demo](screenshots/transfer-demo.gif)](https://github.com/Alina-Kompanii/Student-Management-System/blob/main/transfer-demo.gif)
 
 ---
 
